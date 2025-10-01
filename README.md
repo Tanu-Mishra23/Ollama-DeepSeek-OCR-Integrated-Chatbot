@@ -175,6 +175,10 @@ pillow>=9.0.0
    - Use smaller models for limited resources
    - Close other applications consuming memory
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## 🙏 Acknowledgments
 
 - [Ollama](https://ollama.ai/) for local LLM serving
